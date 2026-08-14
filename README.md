@@ -1,16 +1,13 @@
-## Hi there 👋
+Analytics and Data Engineer with a strong passion for building scalable data systems, automating workflows, and transforming raw data into actionable insights. I enjoy combining technical expertise with problem-solving to deliver impactful data solutions.
 
-<!--
-**Manu-Data1/Manu-Data1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Strong Languages: Python, SQL, Scala, and C++
 
-Here are some ideas to get you started:
+🔭 I am currently working as a Data Engineer at NCBA Group Plc.
+🔭 Previously, I worked with different firms, organizations, and startups including Andela, Safaricom, Koko Networks, MFS Africa, and Ngeni Labs.
+🔭 I’m also building communities and making tech education accessible regardless of location or financial background. These communities include Data Science East Africa, Lux Academy, LuxDevHQ, and Africa Developer's Conference.
+Ask me about Data Engineering, Analytics Engineering, DevOps, and Data Science.
+How to reach me:
+Email: manukipkoech3@gmail.com
+LinkedIn: https://www.linkedin.com/in/emmanuel-kipkoech-0149b4241/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My focus is on building reliable, scalable, and maintainable data platforms that help organizations make better decisions through data.
